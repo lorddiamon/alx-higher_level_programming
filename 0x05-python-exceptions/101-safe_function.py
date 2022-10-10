@@ -1,6 +1,5 @@
 #!/usr/bin/python3
 # 101-safe_function.py
-# Gedeon Obae Gekonge <gideonobae@gmail.com>
 
 import sys
 
